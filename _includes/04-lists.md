@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Studying B.Tech
+* Things I like
+  *Music
+  *F1
